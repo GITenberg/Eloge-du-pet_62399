@@ -1,0 +1,37 @@
+_repo: Eloge-du-pet_62399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mercier de Compiègne, Claude-François-Xavier
+    aliases:
+    - Compiègne, Claude-François-Xavier Mercier de
+    - De Compiègne, Claude-François-Xavier Mercier
+    - Mercier de Compiegne, Claude-Francois-Xavier
+    - Mercier, C.-F. (Claude-François)
+    - Mercier, Claude-François-Xavier
+    birthdate: 1763
+    deathdate: 1800
+    gutenberg_agent_id: '8146'
+    url: http://www.gutenberg.org/2009/agents/8146
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Claude-Fran%C3%A7ois-Xavier_Mercier_de_Compi%C3%A8gne
+    - https://en.wikipedia.org/wiki/Claude-Fran%C3%A7ois-Xavier_Mercier_de_Compi%C3%A8gne
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Humour
+gutenberg_issued: '2020-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62399'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flatulence -- Early works to 1800'
+- !lcc 'PQ'
+- !lcsh 'French wit and humor -- Early works to 1800'
+- GITenberg
+title: Éloge du pet
+url: http://www.gutenberg.org/ebooks/62399
