@@ -1,5 +1,8 @@
 _repo: Eloge-du-pet_62399
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62399-h/images/cover.jpg
 creator:
   author:
     agent_name: Mercier de Compiègne, Claude-François-Xavier
@@ -17,6 +20,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Claude-Fran%C3%A7ois-Xavier_Mercier_de_Compi%C3%A8gne
     - https://en.wikipedia.org/wiki/Claude-Fran%C3%A7ois-Xavier_Mercier_de_Compi%C3%A8gne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62399#Eloge-du-pet
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Humour
